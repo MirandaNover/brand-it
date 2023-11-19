@@ -1,0 +1,4 @@
+input {
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    width: 300px; /* Set the width to 100% to fill its container */
+}
